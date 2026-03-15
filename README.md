@@ -12,3 +12,9 @@ A simple single-screen Android application developed in Java as my first Android
 The app demonstrates basic UI layout and interaction using `ImageView`, `TextView`, and `Button`.  
 Clicking a flower image (representing a UK country) displays information in the centre of the screen, changes UI colours, and reveals a **Clear** button that resets the interface.  
 Additional functionality includes sound feedback associated with each selected flower.
+
+### OFitness (App 2)
+A single-screen Android application developed in Java using Android Studio to practise interactive UI components.
+The app uses RadioButton/RadioGroup to select a fitness category and dynamically updates a Spinner with exercises related to the chosen activity.
+After pressing Submit, the application displays the advantages and disadvantages of the selected exercise.
+Includes basic input validation (warning message when no option is selected) and a Clear button that resets the UI to its initial state.
