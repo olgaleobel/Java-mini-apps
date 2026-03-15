@@ -97,7 +97,6 @@ The app uses `RadioButton` / `RadioGroup` to select a fitness category and dynam
 After pressing **Submit**, the application displays the advantages and disadvantages of the selected exercise.  
 Includes basic input validation (warning message when no option is selected) and a **Clear** button that resets the UI to its initial state.
 
-<img src="https://github.com/olgaleobel/Java-mini-apps/blob/3bcad0a01d297b14326f67ccaf7e9ef0cba4d18d/images/ofitness.png" width="400">
 
 </td>
 </tr>
