@@ -18,3 +18,9 @@ A single-screen Android application developed in Java using Android Studio to pr
 The app uses RadioButton/RadioGroup to select a fitness category and dynamically updates a Spinner with exercises related to the chosen activity.
 After pressing Submit, the application displays the advantages and disadvantages of the selected exercise.
 Includes basic input validation (warning message when no option is selected) and a Clear button that resets the UI to its initial state.
+
+### Dish Filler (App 3)
+A single-screen Android application developed in Java using Android Studio to practise working with CheckBox components, logical conditions, and basic arithmetic operations.
+Users can build a dish by selecting ingredients via checkboxes, while the app dynamically updates the total price and calorie count.
+A visual plate preview updates in real time to reflect the selected ingredients using layered images.
+Pressing Order displays a confirmation Toast message with the final price and calories, while the Clear button resets the interface.
