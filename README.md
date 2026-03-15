@@ -87,7 +87,7 @@ Additional functionality includes sound feedback associated with each selected f
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="400">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="350">
 
 </td>
 <td>
