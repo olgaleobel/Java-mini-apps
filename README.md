@@ -24,3 +24,9 @@ A single-screen Android application developed in Java using Android Studio to pr
 Users can build a dish by selecting ingredients via checkboxes, while the app dynamically updates the total price and calorie count.
 A visual plate preview updates in real time to reflect the selected ingredients using layered images.
 Pressing Order displays a confirmation Toast message with the final price and calories, while the Clear button resets the interface.
+
+### UK Unis (App 4)
+A single-screen Android application developed in Java using Android Studio to practise horizontal scrolling and dynamic UI interactions.
+The app presents a catalogue of UK universities using a scrollable image gallery. Users can navigate through universities by swiping images, using Next/Previous buttons, or selecting thumbnails from a bottom gallery.
+The text content updates dynamically based on the currently displayed university image.
+Additional logic ensures that gallery images snap into correct alignment when scrolled, preventing partial images from appearing on the screen.
