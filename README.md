@@ -60,18 +60,6 @@ The app displays a list of transport options using `RecyclerView`, with images a
 Users can select a vehicle, choose a rental date range via `DatePicker`, and add it to the current order.  
 Selected items can be reviewed, modified, or confirmed through a checkout screen, with the booking process finalised via a confirmation `Toast` message.
 
-## Apps
-
-| App | Preview | Description |
-|-----|---------|-------------|
-| **UK Flowers** | <img src="images/ukflowers.png" width="160"> | Clickable flower images display information about UK countries with colour changes and sound feedback. |
-| **OFitness** | <img src="images/ofitness.png" width="160"> | RadioButton and Spinner interface for selecting fitness activities and viewing their advantages and disadvantages. |
-| **Dish Filler** | <img src="images/dishfiller.png" width="160"> | Build a dish by selecting ingredients with CheckBoxes. The app calculates total price and calories and updates the plate preview dynamically. |
-| **UK Unis** | <img src="images/ukunis.png" width="160"> | Scrollable gallery of UK universities with dynamic text updates and multiple navigation methods. |
-| **Login App** | <img src="images/login.png" width="160"> | Multi-screen registration and login form with input validation and user welcome screen. |
-| **OLPhoneContact** | <img src="images/contacts.png" width="160"> | Contact list implemented with RecyclerView and instant search filtering via SearchView. |
-| **Blue Rent** | <img src="images/bluerent.png" width="160"> | Transport rental app with RecyclerView, DatePicker booking, and checkout flow. |
-
 ### UK Flowers (App 1)
 
 <table>
