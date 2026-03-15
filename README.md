@@ -1,32 +1,59 @@
 # Java-mini-apps
 
-A set of seven small and simple mobile applications developed in Java using Android Studio. 
-The project represents my first practical experience with Java programming and Android mobile development. 
-Each application focuses on basic user interface and interaction mechanisms, including dynamic image updates, sound feedback, and controlled on-screen movement. 
-All apps were designed, implemented, and tested to meet the specified requirements, with some features extending beyond the original scope. 
+A collection of seven small Android applications developed in **Java using Android Studio**.  
+These projects represent my first hands-on experience with **Java programming and Android mobile development**.
+
+Each app focuses on practising core mobile development concepts, including **UI layout design, user interaction, form validation, dynamic data handling, and list-based interfaces**.  
+Together, they demonstrate progressive learning of Android components such as `RecyclerView`, `SearchView`, `Spinner`, and multi-`Activity` navigation.
+
+All applications were designed, implemented, and tested to meet the assignment requirements, with several features extended beyond the original scope.
 
 
 ### UK Flowers (App 1)
 
-A simple single-screen Android application developed in Java as my first Android Studio project.  
+A simple single-screen application developed in Java as my first Android Studio project.  
 The app demonstrates basic UI layout and interaction using `ImageView`, `TextView`, and `Button`.  
 Clicking a flower image (representing a UK country) displays information in the centre of the screen, changes UI colours, and reveals a **Clear** button that resets the interface.  
 Additional functionality includes sound feedback associated with each selected flower.
 
 ### OFitness (App 2)
-A single-screen Android application developed in Java using Android Studio to practise interactive UI components.
-The app uses RadioButton/RadioGroup to select a fitness category and dynamically updates a Spinner with exercises related to the chosen activity.
-After pressing Submit, the application displays the advantages and disadvantages of the selected exercise.
-Includes basic input validation (warning message when no option is selected) and a Clear button that resets the UI to its initial state.
+
+A single-screen application developed to practise interactive UI components.  
+The app uses `RadioButton` / `RadioGroup` to select a fitness category and dynamically updates a `Spinner` with exercises related to the chosen activity.  
+After pressing **Submit**, the application displays the advantages and disadvantages of the selected exercise.  
+Includes basic input validation (warning message when no option is selected) and a **Clear** button that resets the UI to its initial state.
 
 ### Dish Filler (App 3)
-A single-screen Android application developed in Java using Android Studio to practise working with CheckBox components, logical conditions, and basic arithmetic operations.
-Users can build a dish by selecting ingredients via checkboxes, while the app dynamically updates the total price and calorie count.
-A visual plate preview updates in real time to reflect the selected ingredients using layered images.
-Pressing Order displays a confirmation Toast message with the final price and calories, while the Clear button resets the interface.
+
+A single-screen application developed to practise working with `CheckBox` components, logical conditions, and basic arithmetic operations.  
+Users can build a dish by selecting ingredients via checkboxes, while the app dynamically updates the total price and calorie count.  
+A visual plate preview updates in real time to reflect the selected ingredients using layered images.  
+Pressing **Order** displays a confirmation `Toast` message with the final price and calories, while the **Clear** button resets the interface.
 
 ### UK Unis (App 4)
-A single-screen Android application developed in Java using Android Studio to practise horizontal scrolling and dynamic UI interactions.
-The app presents a catalogue of UK universities using a scrollable image gallery. Users can navigate through universities by swiping images, using Next/Previous buttons, or selecting thumbnails from a bottom gallery.
-The text content updates dynamically based on the currently displayed university image.
+
+A single-screen application developed to practise horizontal scrolling and dynamic UI interactions.  
+The app presents a catalogue of UK universities using a scrollable image gallery. Users can navigate through universities by swiping images, using **Next** / **Previous** buttons, or selecting thumbnails from a bottom gallery.  
+The text content updates dynamically based on the currently displayed university image.  
 Additional logic ensures that gallery images snap into correct alignment when scrolled, preventing partial images from appearing on the screen.
+
+### Login App (App 5)
+
+A multi-screen application developed to practise form handling and input validation.  
+The app includes user registration and login functionality, with separate `Activity` screens for login, registration, and a welcome page.  
+Validation checks ensure that required fields are completed and that login credentials match registered data, with error messages and highlighted fields indicating issues.  
+Successful registration and certain actions are confirmed using `Toast` messages, while the welcome screen displays user information derived from the registration data.
+
+### OLPhoneContact (App 6)
+
+An application developed to practise working with `RecyclerView` and dynamic search functionality.  
+The app displays a scrollable list of contacts and uses `SearchView` to provide instant filtering as the user types.  
+Selecting a contact opens options to initiate a phone call or send a message to the selected number.  
+The project demonstrates efficient list handling with `RecyclerView`, dynamic UI updates, and basic interaction with device communication features.
+
+### Blue Rent (App 7)
+
+An application developed to practise building a reservation/basket system with dynamic data.  
+The app displays a list of transport options using `RecyclerView`, with images and information loaded from an external JSON data source (with placeholders for missing images).  
+Users can select a vehicle, choose a rental date range via `DatePicker`, and add it to the current order.  
+Selected items can be reviewed, modified, or confirmed through a checkout screen, with the booking process finalised via a confirmation `Toast` message.
