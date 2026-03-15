@@ -11,6 +11,8 @@ All applications were designed, implemented, and tested to meet the assignment r
 
 ### UK Flowers (App 1)
 
+![UK Flowers](images/flowersuk.png)
+
 A simple single-screen application developed in Java as my first Android Studio project.  
 The app demonstrates basic UI layout and interaction using `ImageView`, `TextView`, and `Button`.  
 Clicking a flower image (representing a UK country) displays information in the centre of the screen, changes UI colours, and reveals a **Clear** button that resets the interface.  
