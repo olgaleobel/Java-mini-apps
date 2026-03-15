@@ -71,3 +71,23 @@ Selected items can be reviewed, modified, or confirmed through a checkout screen
 | **Login App** | <img src="images/login.png" width="160"> | Multi-screen registration and login form with input validation and user welcome screen. |
 | **OLPhoneContact** | <img src="images/contacts.png" width="160"> | Contact list implemented with RecyclerView and instant search filtering via SearchView. |
 | **Blue Rent** | <img src="images/bluerent.png" width="160"> | Transport rental app with RecyclerView, DatePicker booking, and checkout flow. |
+
+### UK Flowers (App 1)
+
+<table>
+<tr>
+<td>
+
+![UK Flowers](https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/ukflowers.png)
+
+</td>
+<td>
+
+A simple single-screen application developed in Java as my first Android Studio project.  
+The app demonstrates basic UI layout and interaction using `ImageView`, `TextView`, and `Button`.  
+Clicking a flower image (representing a UK country) displays information in the centre of the screen, changes UI colours, and reveals a **Clear** button that resets the interface.  
+Additional functionality includes sound feedback associated with each selected flower.
+
+</td>
+</tr>
+</table>
