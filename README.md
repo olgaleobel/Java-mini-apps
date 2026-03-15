@@ -80,3 +80,26 @@ Additional functionality includes sound feedback associated with each selected f
 </tr>
 </table>
 </table>
+
+### OFitness (App 2)
+
+<table>
+<tr>
+<td>
+
+<img src="https://github.com/olgaleobel/Java-mini-apps/blob/3bcad0a01d297b14326f67ccaf7e9ef0cba4d18d/images/ofitness.png" width="400">
+
+</td>
+<td>
+  
+A single-screen application developed to practise interactive UI components.  
+The app uses `RadioButton` / `RadioGroup` to select a fitness category and dynamically updates a `Spinner` with exercises related to the chosen activity.  
+After pressing **Submit**, the application displays the advantages and disadvantages of the selected exercise.  
+Includes basic input validation (warning message when no option is selected) and a **Clear** button that resets the UI to its initial state.
+
+<img src="https://github.com/olgaleobel/Java-mini-apps/blob/3bcad0a01d297b14326f67ccaf7e9ef0cba4d18d/images/ofitness.png" width="400">
+
+</td>
+</tr>
+</table>
+</table>
