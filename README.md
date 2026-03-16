@@ -83,6 +83,7 @@ Pressing **Order** displays a confirmation `Toast` message with the final price 
 </table>
 
 ### UK Unis (App 4)
+[Selected Code Snippets](https://github.com/olgaleobel/Java-mini-apps/blob/main/ukunis.md)
 
 <table>
 <tr>
