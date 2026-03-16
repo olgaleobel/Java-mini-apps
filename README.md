@@ -9,28 +9,6 @@ Together, they demonstrate progressive learning of Android components such as `R
 All applications were designed, implemented, and tested to meet the assignment requirements, with several features extended beyond the original scope.
 
 
-### UK Unis (App 4)
-
-A single-screen application developed to practise horizontal scrolling and dynamic UI interactions.  
-The app presents a catalogue of UK universities using a scrollable image gallery. Users can navigate through universities by swiping images, using **Next** / **Previous** buttons, or selecting thumbnails from a bottom gallery.  
-The text content updates dynamically based on the currently displayed university image.  
-Additional logic ensures that gallery images snap into correct alignment when scrolled, preventing partial images from appearing on the screen.
-
-### Login App (App 5)
-
-A multi-screen application developed to practise form handling and input validation.  
-The app includes user registration and login functionality, with separate `Activity` screens for login, registration, and a welcome page.  
-Validation checks ensure that required fields are completed and that login credentials match registered data, with error messages and highlighted fields indicating issues.  
-Successful registration and certain actions are confirmed using `Toast` messages, while the welcome screen displays user information derived from the registration data.
-
-
-### Blue Rent (App 7)
-
-An application developed to practise building a reservation/basket system with dynamic data.  
-The app displays a list of transport options using `RecyclerView`, with images and information loaded from an external JSON data source (with placeholders for missing images).  
-Users can select a vehicle, choose a rental date range via `DatePicker`, and add it to the current order.  
-Selected items can be reviewed, modified, or confirmed through a checkout screen, with the booking process finalised via a confirmation `Toast` message.
-
 ### UK Flowers (App 1)
 
 <table>
@@ -117,6 +95,27 @@ Additional logic ensures that gallery images snap into correct alignment when sc
 </table>
 </table>
 
+### Login App (App 5)
+
+<table>
+<tr>
+<td>
+
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/login.png" width="120">
+
+</td>
+<td>
+
+A multi-screen application developed to practise form handling and input validation.  
+The app includes user registration and login functionality, with separate `Activity` screens for login, registration, and a welcome page.  
+Validation checks ensure that required fields are completed and that login credentials match registered data, with error messages and highlighted fields indicating issues.  
+Successful registration and certain actions are confirmed using `Toast` messages, while the welcome screen displays user information derived from the registration data.
+
+</td>
+</tr>
+</table>
+</table>
+
 ### OLPhoneContact (App 6)
 
 <table>
@@ -138,6 +137,28 @@ The project demonstrates efficient list handling with `RecyclerView`, dynamic UI
 </tr>
 </table>
 </table>
+
+### Blue Rent (App 7)
+
+<table>
+<tr>
+<td>
+
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/bluerent.png" width="120">
+
+</td>
+<td>
+
+An application developed to practise building a reservation/basket system with dynamic data.  
+The app displays a list of transport options using `RecyclerView`, with images and information loaded from an external JSON data source (with placeholders for missing images).  
+Users can select a vehicle, choose a rental date range via `DatePicker`, and add it to the current order.  
+Selected items can be reviewed, modified, or confirmed through a checkout screen, with the booking process finalised via a confirmation `Toast` message.
+
+</td>
+</tr>
+</table>
+</table>
+
 
 ukflowers.png
 │   ├─ ofitness.png
