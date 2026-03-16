@@ -12,7 +12,7 @@ All applications were designed, implemented, and tested to meet the assignment r
 
 
 ### UK Flowers (App 1)
-[Overwiev](https://github.com/olgaleobel/Java-mini-apps/blob/main/UKFlowers.md)
+[Selected Code Snippets](https://github.com/olgaleobel/Java-mini-apps/blob/main/UKFlowers.md)
 
 <table>
 <tr>
