@@ -1,3 +1,7 @@
+[⬅️ Back to Java mini apps](https://github.com/olgaleobel/Java-mini-apps/)
+
+## Login app
+
 ### Welcome Screen – Displaying User Details
 
 Retrieves user information from a local database and displays it on a welcome screen after successful login.
@@ -52,3 +56,5 @@ Defines a vertically structured layout displaying the user’s details and a nav
     android:layout_height="60dp"
     android:text="Back" />
 ```
+
+[⬅️ Back to Java mini apps](https://github.com/olgaleobel/Java-mini-apps/)
