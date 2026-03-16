@@ -107,6 +107,7 @@ Additional logic ensures that gallery images snap into correct alignment when sc
 </table>
 
 ### Login App (App 5)
+[Selected Code Snippets](https://github.com/olgaleobel/Java-mini-apps/blob/main/login.md)
 
 <table>
 <tr>
