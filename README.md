@@ -85,7 +85,7 @@ Pressing **Order** displays a confirmation `Toast` message with the final price 
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/d4f76326ab00aaed49725b225bc10af4bd92c8bb/images/ukunis.png" width="240">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/d4f76326ab00aaed49725b225bc10af4bd92c8bb/images/ukunis.png" width="250">
 
 </td>
 <td>
