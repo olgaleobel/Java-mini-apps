@@ -35,7 +35,7 @@ Additional functionality includes sound feedback associated with each selected f
 </table>
 
 ### OFitness (App 2)
-
+[Selected Code Snippets](https://github.com/olgaleobel/Java-mini-apps/blob/main/ofitness.md)
 <table>
 <tr>
 <td>
