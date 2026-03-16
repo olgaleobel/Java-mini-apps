@@ -107,7 +107,7 @@ Additional logic ensures that gallery images snap into correct alignment when sc
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/login.png" width="200">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/af57bf2d8aa4c0dc90dc48985608c96c4cf75c1d/images/login.png" width="200">
 
 </td>
 <td>
