@@ -7,7 +7,7 @@
 This activity shows the list of transport bookings passed from the main selection screen.
 It handles "Back" to return and "Finish" to exit the app with a confirmation toast.
 
-'''Java
+```java
 
 orderInfoList = getIntent().getStringArrayListExtra("orderInfoList");
 
@@ -28,14 +28,14 @@ finishButton.setOnClickListener(v -> {
     finishAffinity(); // Close all activities
 });
 
-'''
+```
 
 ### 2. Fetching JSON data asynchronously
 
 GetJSONData loads transport info from a JSON API and converts it to Transport objects.
 It uses AsyncTask to perform network operations off the main thread.
 
-'''Java
+```Java
 
 URL url = new URL("https://api.jsonserve.com/_9Gh51");
 HttpURLConnection conn = (HttpURLConnection) url.openConnection();
@@ -53,14 +53,14 @@ for (int i = 0; i < jsonArray.length(); i++) {
     myTransport.add(transport);
 }
 
-'''
+```
 
 ### 3. RecyclerView ViewHolder – binding transport data
 
 ItemHolder stores references to views in a transport item and provides methods to set their content.
 Picasso is used to load images from URLs efficiently.
 
-'''Java
+```Java
 
 public void setTransportImageView(String imageUrl) {
     Picasso.get().load(imageUrl).into(transportImage);
@@ -74,14 +74,14 @@ public void setTransportCapacity(String capacity) {
     transportCapacity.setText(capacity);
 }
 
-'''
+```
 
 ### 4. RecyclerView Adapter – handling selection and booking
 
 The adapter manages the list of transport items.
 It tracks which items are booked and allows users to select a date range using MaterialDatePicker.
 
-'''Java
+```Java
 
 if (!isOrdered[position]) {
     MaterialDatePicker<Pair<Long, Long>> datePicker = MaterialDatePicker.Builder.dateRangePicker()
@@ -102,14 +102,14 @@ if (!isOrdered[position]) {
     });
 }
 
-'''
+```
 
 ### 5. Updating Order button appearance
 
 The button text and color change depending on whether the item is selected.
 This gives immediate visual feedback to the user.
 
-'''Java
+```Java
 
 private void updateButtonAppearance(@NonNull ItemHolder holder, int position) {
     if (isOrdered[position]) {
@@ -121,14 +121,14 @@ private void updateButtonAppearance(@NonNull ItemHolder holder, int position) {
     }
 }
 
-'''
+```
 
 ### 6. Transport data model
 
 A simple Transport class stores type, name, capacity, and image URL of each transport.
 It provides getters for use in adapter and view holder.
 
-'''Java
+```Java
 
 public class Transport {
     private String transport_type;
@@ -149,14 +149,14 @@ public class Transport {
     public String getTransport_image() { return transport_image; }
 }
 
-'''
+```
 
 ### 7. Layout – RecyclerView item for each transport
 
 Each item shows an image, details, and a booking button.
 A hidden TextView stores order info and becomes visible when needed.
 
-'''Java
+```Java
 
 <ImageView
     android:id="@+id/transportImageView"
@@ -177,7 +177,7 @@ A hidden TextView stores order info and becomes visible when needed.
     android:id="@+id/orderInfoTextView"
     android:visibility="gone" />
     
-    '''
+   ```
 
 [⬅️ Back to Java mini apps](https://github.com/olgaleobel/Java-mini-apps/)    
 
