@@ -5,7 +5,7 @@
 A collection of seven small Android applications developed in **Java using Android Studio**.  
 These projects represent my first hands-on experience with **Java programming and Android mobile development**.
 
-Each app focuses on practising core mobile development concepts, including **UI layout design, user interaction, form validation, dynamic data handling, and list-based interfaces**.  
+Each app focuses on practising core mobile development concepts, including **UI layout design, user interaction, form validation, dynamic data handling, and list-based interfaces**. 
 Together, they demonstrate progressive learning of Android components such as `RecyclerView`, `SearchView`, `Spinner`, and multi-`Activity` navigation.
 
 All applications were designed, implemented, and tested to meet the assignment requirements, with several features extended beyond the original scope.
@@ -17,15 +17,15 @@ All applications were designed, implemented, and tested to meet the assignment r
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/e9939f0323216dbbc94625372720ffc79421a32b/images/ukflowers.png" width="900">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/e9939f0323216dbbc94625372720ffc79421a32b/images/ukflowers.png" width="1000">
 
 </td>
 <td>
 
 A simple single-screen application developed in Java as my first Android Studio project. 
 
-The app demonstrates basic UI layout and interaction using `ImageView`, `TextView`, and `Button`.  
-Clicking a flower image (representing a UK country) displays information in the centre of the screen, changes UI colours, and reveals a **Clear** button that resets the interface.  
+The app demonstrates basic UI layout and interaction using `ImageView`, `TextView`, and `Button`.  Clicking a flower image (representing a UK country) displays information in the centre of the screen, changes UI colours, and reveals a **Clear** button that resets the interface.
+
 Additional functionality includes sound feedback associated with each selected flower.
 
 </td>
