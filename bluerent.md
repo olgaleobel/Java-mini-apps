@@ -58,20 +58,34 @@ for (int i = 0; i < jsonArray.length(); i++) {
 ### 3. RecyclerView ViewHolder – binding transport data
 
 ItemHolder stores references to views in a transport item and provides methods to set their content.
-Picasso is used to load images from URLs efficiently.
+Images from URLs are loaded using Picasso in the setTransportImageView() method.
 
 ```Java
 
-public void setTransportImageView(String imageUrl) {
-    Picasso.get().load(imageUrl).into(transportImage);
-}
+public class ItemHolder extends RecyclerView.ViewHolder {
 
-public void setTransportName(String name) {
-    transportName.setText(name);
-}
+    private TextView transportName;
+    private ImageView transportImage;
+    private TextView transportCapacity;
 
-public void setTransportCapacity(String capacity) {
-    transportCapacity.setText(capacity);
+    public ItemHolder(@NonNull View itemView) {
+        super(itemView);
+        transportName = itemView.findViewById(R.id.transportNameTextView);
+        transportImage = itemView.findViewById(R.id.transportImageView);
+        transportCapacity = itemView.findViewById(R.id.transportCapacityTextView);
+    }
+
+    public void setTransportImageView(String imageUrl) {
+        Picasso.get().load(imageUrl).into(transportImage);
+    }
+
+    public void setTransportName(String name) {
+        transportName.setText(name);
+    }
+
+    public void setTransportCapacity(String capacity) {
+        transportCapacity.setText(capacity);
+    }
 }
 
 ```
