@@ -107,7 +107,7 @@ Additional logic ensures that gallery images snap into correct alignment when sc
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/af57bf2d8aa4c0dc90dc48985608c96c4cf75c1d/images/login.png" width="185">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/af57bf2d8aa4c0dc90dc48985608c96c4cf75c1d/images/login.png" width="190">
 
 </td>
 <td>
@@ -128,7 +128,7 @@ Successful registration and certain actions are confirmed using `Toast` messages
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/6cfc1a71839c98cbabbcba497871f002a892a031/images/contacts.png" width="155">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/6cfc1a71839c98cbabbcba497871f002a892a031/images/contacts.png" width="160">
 
 </td>
 <td>
@@ -150,7 +150,7 @@ The project demonstrates efficient list handling with `RecyclerView`, dynamic UI
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/0c83cce55928c05798be6b7a2b909592ced4e6a0/images/bluerent.png" width="180">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/0c83cce55928c05798be6b7a2b909592ced4e6a0/images/bluerent.png" width="200">
 
 </td>
 <td>
