@@ -39,7 +39,7 @@ Additional functionality includes sound feedback associated with each selected f
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="150">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="200">
 
 </td>
 <td>
@@ -85,7 +85,7 @@ Pressing **Order** displays a confirmation `Toast` message with the final price 
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/d4f76326ab00aaed49725b225bc10af4bd92c8bb/images/ukunis.png" width="200">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/d4f76326ab00aaed49725b225bc10af4bd92c8bb/images/ukunis.png" width="220">
 
 </td>
 <td>
