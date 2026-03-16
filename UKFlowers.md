@@ -1,3 +1,7 @@
+[⬅️ Back to Java mini apps](https://github.com/olgaleobel/Java-mini-apps/)
+
+# UK Flowers app
+
 ## Example Code
 
 ### 1. Activity setup (initialisation and UI binding)
@@ -93,4 +97,4 @@ The layout is vertically aligned and centred to keep the interface simple and re
 </LinearLayout>
 
 ```
-
+[⬅️ Back to Java mini apps](https://github.com/olgaleobel/Java-mini-apps/)
