@@ -47,6 +47,7 @@ Additional functionality includes sound feedback associated with each selected f
 A single-screen application developed to practise interactive UI components.  
 
 The app uses `RadioButton` / `RadioGroup` to select a fitness category and dynamically updates a `Spinner` with exercises related to the chosen activity.  
+
 After pressing **Submit**, the application displays the advantages and disadvantages of the selected exercise.  
 Includes basic input validation (warning message when no option is selected) and a **Clear** button that resets the UI to its initial state.
 
@@ -70,7 +71,8 @@ Includes basic input validation (warning message when no option is selected) and
 A single-screen application developed to practise working with `CheckBox` components, logical conditions, and basic arithmetic operations.  
 
 Users can build a dish by selecting ingredients via checkboxes, while the app dynamically updates the total price and calorie count.  
-A visual plate preview updates in real time to reflect the selected ingredients using layered images.  
+A visual plate preview updates in real time to reflect the selected ingredients using layered images. 
+
 Pressing **Order** displays a confirmation `Toast` message with the final price and calories, while the **Clear** button resets the interface.
 
 
@@ -93,7 +95,8 @@ Pressing **Order** displays a confirmation `Toast` message with the final price 
 A single-screen application developed to practise horizontal scrolling and dynamic UI interactions.  
 
 The app presents a catalogue of UK universities using a scrollable image gallery. Users can navigate through universities by swiping images, using **Next** / **Previous** buttons, or selecting thumbnails from a bottom gallery.  
-The text content updates dynamically based on the currently displayed university image.  
+The text content updates dynamically based on the currently displayed university image.
+
 Additional logic ensures that gallery images snap into correct alignment when scrolled, preventing partial images from appearing on the screen.
 
 </td>
@@ -112,8 +115,10 @@ Additional logic ensures that gallery images snap into correct alignment when sc
 </td>
 <td>
 
-A multi-screen application developed to practise form handling and input validation.  
-The app includes user registration and login functionality, with separate `Activity` screens for login, registration, and a welcome page.  
+A multi-screen application developed to practise form handling and input validation.
+
+The app includes user registration and login functionality, with separate `Activity` screens for login, registration, and a welcome page.
+
 Validation checks ensure that required fields are completed and that login credentials match registered data, with error messages and highlighted fields indicating issues.  
 Successful registration and certain actions are confirmed using `Toast` messages, while the welcome screen displays user information derived from the registration data.
 
@@ -133,9 +138,11 @@ Successful registration and certain actions are confirmed using `Toast` messages
 </td>
 <td>
   
-An application developed to practise working with `RecyclerView` and dynamic search functionality.  
+An application developed to practise working with `RecyclerView` and dynamic search functionality.
+
 The app displays a scrollable list of contacts and uses `SearchView` to provide instant filtering as the user types.  
-Selecting a contact opens options to initiate a phone call or send a message to the selected number.  
+Selecting a contact opens options to initiate a phone call or send a message to the selected number. 
+
 The project demonstrates efficient list handling with `RecyclerView`, dynamic UI updates, and basic interaction with device communication features.
 
 
@@ -155,8 +162,10 @@ The project demonstrates efficient list handling with `RecyclerView`, dynamic UI
 </td>
 <td>
 
-An application developed to practise building a reservation/basket system with dynamic data.  
+An application developed to practise building a reservation/basket system with dynamic data.
+
 The app displays a list of transport options using `RecyclerView`, with images and information loaded from an external JSON data source (with placeholders for missing images).  
+
 Users can select a vehicle, choose a rental date range via `DatePicker`, and add it to the current order.  
 Selected items can be reviewed, modified, or confirmed through a checkout screen, with the booking process finalised via a confirmation `Toast` message.
 
