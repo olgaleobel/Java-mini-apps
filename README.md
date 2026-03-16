@@ -17,7 +17,7 @@ All applications were designed, implemented, and tested to meet the assignment r
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/ukflowers.png" width="220">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/ukflowers.png" width="160">
 
 </td>
 <td>
@@ -39,7 +39,7 @@ Additional functionality includes sound feedback associated with each selected f
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="200">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="150">
 
 </td>
 <td>
@@ -62,7 +62,7 @@ Includes basic input validation (warning message when no option is selected) and
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/5800db75e7c58889eee6768eb24a8e019d9f6aaa/images/dishfiller.png" width="200">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/5800db75e7c58889eee6768eb24a8e019d9f6aaa/images/dishfiller.png" width="150">
 
 </td>
 <td>
@@ -107,7 +107,7 @@ Additional logic ensures that gallery images snap into correct alignment when sc
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/login.png" width="120">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/login.png" width="200">
 
 </td>
 <td>
@@ -128,7 +128,7 @@ Successful registration and certain actions are confirmed using `Toast` messages
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/6cfc1a71839c98cbabbcba497871f002a892a031/images/contacts.png" width="100">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/6cfc1a71839c98cbabbcba497871f002a892a031/images/contacts.png" width="150">
 
 </td>
 <td>
