@@ -103,6 +103,28 @@ Includes basic input validation (warning message when no option is selected) and
 </table>
 </table>
 
+### OLPhoneContact (App 6)
+
+<table>
+<tr>
+<td>
+
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/contacts.png" width="350">
+
+</td>
+<td>
+  
+An application developed to practise working with `RecyclerView` and dynamic search functionality.  
+The app displays a scrollable list of contacts and uses `SearchView` to provide instant filtering as the user types.  
+Selecting a contact opens options to initiate a phone call or send a message to the selected number.  
+The project demonstrates efficient list handling with `RecyclerView`, dynamic UI updates, and basic interaction with device communication features.
+
+
+</td>
+</tr>
+</table>
+</table>
+
 ukflowers.png
 │   ├─ ofitness.png
 │   ├─ dishfiller.png
