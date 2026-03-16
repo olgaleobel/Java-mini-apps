@@ -176,11 +176,3 @@ Selected items can be reviewed, modified, or confirmed through a checkout screen
 
 [⬅️ Back to main page](https://github.com/olgaleobel/)
 
-
-ukflowers.png
-│   ├─ ofitness.png
-│   ├─ dishfiller.png
-│   ├─ ukunis.png
-│   ├─ login.png
-│   ├─ contacts.png
-│   └─ bluerent.png
