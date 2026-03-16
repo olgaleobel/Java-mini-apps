@@ -1,3 +1,5 @@
+[⬅️ Back to main page](https://github.com/olgaleobel/)
+
 # Java-mini-apps
 
 A collection of seven small Android applications developed in **Java using Android Studio**.  
@@ -158,6 +160,8 @@ Selected items can be reviewed, modified, or confirmed through a checkout screen
 </tr>
 </table>
 </table>
+
+[⬅️ Back to main page](https://github.com/olgaleobel/)
 
 
 ukflowers.png
