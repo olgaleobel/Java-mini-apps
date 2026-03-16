@@ -66,7 +66,7 @@ Selected items can be reviewed, modified, or confirmed through a checkout screen
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/ukflowers.png" width="100">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/ukflowers.png" width="120">
 
 </td>
 <td>
