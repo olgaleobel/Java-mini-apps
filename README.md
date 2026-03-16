@@ -17,12 +17,13 @@ All applications were designed, implemented, and tested to meet the assignment r
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/ukflowers.png" width="120">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/ukflowers.png" width="220">
 
 </td>
 <td>
 
-A simple single-screen application developed in Java as my first Android Studio project.  
+A simple single-screen application developed in Java as my first Android Studio project. 
+
 The app demonstrates basic UI layout and interaction using `ImageView`, `TextView`, and `Button`.  
 Clicking a flower image (representing a UK country) displays information in the centre of the screen, changes UI colours, and reveals a **Clear** button that resets the interface.  
 Additional functionality includes sound feedback associated with each selected flower.
@@ -38,12 +39,13 @@ Additional functionality includes sound feedback associated with each selected f
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="100">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="200">
 
 </td>
 <td>
   
 A single-screen application developed to practise interactive UI components.  
+
 The app uses `RadioButton` / `RadioGroup` to select a fitness category and dynamically updates a `Spinner` with exercises related to the chosen activity.  
 After pressing **Submit**, the application displays the advantages and disadvantages of the selected exercise.  
 Includes basic input validation (warning message when no option is selected) and a **Clear** button that resets the UI to its initial state.
@@ -60,12 +62,13 @@ Includes basic input validation (warning message when no option is selected) and
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/5800db75e7c58889eee6768eb24a8e019d9f6aaa/images/dishfiller.png" width="100">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/5800db75e7c58889eee6768eb24a8e019d9f6aaa/images/dishfiller.png" width="200">
 
 </td>
 <td>
   
 A single-screen application developed to practise working with `CheckBox` components, logical conditions, and basic arithmetic operations.  
+
 Users can build a dish by selecting ingredients via checkboxes, while the app dynamically updates the total price and calorie count.  
 A visual plate preview updates in real time to reflect the selected ingredients using layered images.  
 Pressing **Order** displays a confirmation `Toast` message with the final price and calories, while the **Clear** button resets the interface.
@@ -82,12 +85,13 @@ Pressing **Order** displays a confirmation `Toast` message with the final price 
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/d4f76326ab00aaed49725b225bc10af4bd92c8bb/images/ukunis.png" width="120">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/d4f76326ab00aaed49725b225bc10af4bd92c8bb/images/ukunis.png" width="200">
 
 </td>
 <td>
 
 A single-screen application developed to practise horizontal scrolling and dynamic UI interactions.  
+
 The app presents a catalogue of UK universities using a scrollable image gallery. Users can navigate through universities by swiping images, using **Next** / **Previous** buttons, or selecting thumbnails from a bottom gallery.  
 The text content updates dynamically based on the currently displayed university image.  
 Additional logic ensures that gallery images snap into correct alignment when scrolled, preventing partial images from appearing on the screen.
