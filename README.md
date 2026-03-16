@@ -150,7 +150,7 @@ The project demonstrates efficient list handling with `RecyclerView`, dynamic UI
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/bluerent.png" width="120">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/0c83cce55928c05798be6b7a2b909592ced4e6a0/images/bluerent.png" width="120">
 
 </td>
 <td>
