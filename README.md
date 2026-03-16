@@ -59,6 +59,7 @@ Includes basic input validation (warning message when no option is selected) and
 </table>
 
 ### Dish Filler (App 3)
+[Selected Code Snippets](https://github.com/olgaleobel/Java-mini-apps/blob/main/dishfiller.md)
 
 <table>
 <tr>
