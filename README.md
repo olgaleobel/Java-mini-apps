@@ -70,8 +70,7 @@ Includes basic input validation (warning message when no option is selected) and
   
 A single-screen application developed to practise working with `CheckBox` components, logical conditions, and basic arithmetic operations.  
 
-Users can build a dish by selecting ingredients via checkboxes, while the app dynamically updates the total price and calorie count.  
-A visual plate preview updates in real time to reflect the selected ingredients using layered images. 
+Users can build a dish by selecting ingredients via checkboxes, while the app dynamically updates the total price and calorie count. A visual plate preview updates in real time to reflect the selected ingredients using layered images. 
 
 Pressing **Order** displays a confirmation `Toast` message with the final price and calories, while the **Clear** button resets the interface.
 
@@ -119,7 +118,8 @@ A multi-screen application developed to practise form handling and input validat
 
 The app includes user registration and login functionality, with separate `Activity` screens for login, registration, and a welcome page.
 
-Validation checks ensure that required fields are completed and that login credentials match registered data, with error messages and highlighted fields indicating issues.  
+Validation checks ensure that required fields are completed and that login credentials match registered data, with error messages and highlighted fields indicating issues.
+
 Successful registration and certain actions are confirmed using `Toast` messages, while the welcome screen displays user information derived from the registration data.
 
 </td>
