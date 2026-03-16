@@ -109,7 +109,7 @@ Includes basic input validation (warning message when no option is selected) and
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/contacts.png" width="350">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/6cfc1a71839c98cbabbcba497871f002a892a031/images/contacts.png" width="350">
 
 </td>
 <td>
