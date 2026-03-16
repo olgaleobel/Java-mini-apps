@@ -17,7 +17,7 @@ All applications were designed, implemented, and tested to meet the assignment r
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/ukflowers.png" width="160">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/ukflowers.png" width="180">
 
 </td>
 <td>
@@ -39,7 +39,7 @@ Additional functionality includes sound feedback associated with each selected f
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="150">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="170">
 
 </td>
 <td>
