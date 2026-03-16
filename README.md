@@ -39,7 +39,7 @@ Additional functionality includes sound feedback associated with each selected f
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="200">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/ofitness.png" width="170">
 
 </td>
 <td>
@@ -63,7 +63,7 @@ Includes basic input validation (warning message when no option is selected) and
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/5800db75e7c58889eee6768eb24a8e019d9f6aaa/images/dishfiller.png" width="170">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/5800db75e7c58889eee6768eb24a8e019d9f6aaa/images/dishfiller.png" width="200">
 
 </td>
 <td>
