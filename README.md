@@ -157,6 +157,8 @@ The project demonstrates efficient list handling with `RecyclerView`, dynamic UI
 
 ### Blue Rent (App 7)
 
+[Selected Code Snippets](https://github.com/olgaleobel/Java-mini-apps/blob/main/bluerent.md)
+
 <table>
 <tr>
 <td>
