@@ -9,29 +9,6 @@ Together, they demonstrate progressive learning of Android components such as `R
 All applications were designed, implemented, and tested to meet the assignment requirements, with several features extended beyond the original scope.
 
 
-### UK Flowers (App 1)
-
-![UK Flowers](images/ukflowers.png)
-
-A simple single-screen application developed in Java as my first Android Studio project.  
-The app demonstrates basic UI layout and interaction using `ImageView`, `TextView`, and `Button`.  
-Clicking a flower image (representing a UK country) displays information in the centre of the screen, changes UI colours, and reveals a **Clear** button that resets the interface.  
-Additional functionality includes sound feedback associated with each selected flower.
-
-### OFitness (App 2)
-
-A single-screen application developed to practise interactive UI components.  
-The app uses `RadioButton` / `RadioGroup` to select a fitness category and dynamically updates a `Spinner` with exercises related to the chosen activity.  
-After pressing **Submit**, the application displays the advantages and disadvantages of the selected exercise.  
-Includes basic input validation (warning message when no option is selected) and a **Clear** button that resets the UI to its initial state.
-
-### Dish Filler (App 3)
-
-A single-screen application developed to practise working with `CheckBox` components, logical conditions, and basic arithmetic operations.  
-Users can build a dish by selecting ingredients via checkboxes, while the app dynamically updates the total price and calorie count.  
-A visual plate preview updates in real time to reflect the selected ingredients using layered images.  
-Pressing **Order** displays a confirmation `Toast` message with the final price and calories, while the **Clear** button resets the interface.
-
 ### UK Unis (App 4)
 
 A single-screen application developed to practise horizontal scrolling and dynamic UI interactions.  
@@ -46,12 +23,6 @@ The app includes user registration and login functionality, with separate `Activ
 Validation checks ensure that required fields are completed and that login credentials match registered data, with error messages and highlighted fields indicating issues.  
 Successful registration and certain actions are confirmed using `Toast` messages, while the welcome screen displays user information derived from the registration data.
 
-### OLPhoneContact (App 6)
-
-An application developed to practise working with `RecyclerView` and dynamic search functionality.  
-The app displays a scrollable list of contacts and uses `SearchView` to provide instant filtering as the user types.  
-Selecting a contact opens options to initiate a phone call or send a message to the selected number.  
-The project demonstrates efficient list handling with `RecyclerView`, dynamic UI updates, and basic interaction with device communication features.
 
 ### Blue Rent (App 7)
 
@@ -97,6 +68,49 @@ The app uses `RadioButton` / `RadioGroup` to select a fitness category and dynam
 After pressing **Submit**, the application displays the advantages and disadvantages of the selected exercise.  
 Includes basic input validation (warning message when no option is selected) and a **Clear** button that resets the UI to its initial state.
 
+
+</td>
+</tr>
+</table>
+</table>
+
+### Dish Filler (App 3)
+
+<table>
+<tr>
+<td>
+
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/58718ada572dfb9e022a238bded6452725e6724e/images/dishfiller.png" width="100">
+
+</td>
+<td>
+  
+A single-screen application developed to practise working with `CheckBox` components, logical conditions, and basic arithmetic operations.  
+Users can build a dish by selecting ingredients via checkboxes, while the app dynamically updates the total price and calorie count.  
+A visual plate preview updates in real time to reflect the selected ingredients using layered images.  
+Pressing **Order** displays a confirmation `Toast` message with the final price and calories, while the **Clear** button resets the interface.
+
+
+</td>
+</tr>
+</table>
+</table>
+
+### UK Unis (App 4)
+
+<table>
+<tr>
+<td>
+
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/72bf8f67ca482f389a9afd8aa289e80bcc2182b0/images/ukunis.png" width="120">
+
+</td>
+<td>
+
+A single-screen application developed to practise horizontal scrolling and dynamic UI interactions.  
+The app presents a catalogue of UK universities using a scrollable image gallery. Users can navigate through universities by swiping images, using **Next** / **Previous** buttons, or selecting thumbnails from a bottom gallery.  
+The text content updates dynamically based on the currently displayed university image.  
+Additional logic ensures that gallery images snap into correct alignment when scrolled, preventing partial images from appearing on the screen.
 
 </td>
 </tr>
