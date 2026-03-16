@@ -17,7 +17,7 @@ All applications were designed, implemented, and tested to meet the assignment r
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/e9939f0323216dbbc94625372720ffc79421a32b/images/ukflowers.png" width="1000">
+<img src="https://raw.githubusercontent.com/olgaleobel/Java-mini-apps/e9939f0323216dbbc94625372720ffc79421a32b/images/ukflowers.png" width="950">
 
 </td>
 <td>
