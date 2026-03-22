@@ -133,6 +133,8 @@ Successful registration and certain actions are confirmed using `Toast` messages
 
 ### OLPhoneContact (App 6)
 
+[Selected Code Snippets](https://github.com/olgaleobel/Java-mini-apps/blob/main/contacts.md)
+
 <table>
 <tr>
 <td>
